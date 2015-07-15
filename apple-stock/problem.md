@@ -9,4 +9,4 @@ Write an efficient algorithm for computing *the best profit I could have made fr
 
 No "shorting"-you must buy before you sell. You may not buy and sell in the same time step (at least 1 minute must pass).
 
-Problem from by [Interview Cake](https://www.interviewcake.com/question/stock-price).
+Problem from [Interview Cake](https://www.interviewcake.com/question/stock-price).
