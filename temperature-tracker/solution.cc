@@ -1,13 +1,9 @@
 #include "solution.h"
 
-#include <iostream>     // cout
 #include <algorithm>    // max_element()
 #include <limits>       // numeric_limits<>::infinity()
-#include <string>       // endl
-#include <map>          // map<>
 
 #include <cstdint>      // uint32_t
-#include <cstdlib>      // EXIT_SUCCESS
 
 TempTracker::TempTracker()
 {
